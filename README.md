@@ -1,6 +1,6 @@
 # Homelab
 
-This repository documents my journey of setting up a server, including guides and notes based on personal experience. It serves as a reference for the tools and steps I used throughout the process.
+This repository documents my journey of setting my first server, including guides and notes based on personal experience. It serves as a reference for the tools and steps I used throughout the process.
 
 ## Reason for Building It
 
