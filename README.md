@@ -2,7 +2,7 @@
 
 This repository documents my journey of setting my first server, including guides and notes based on personal experience. It serves as a reference for the tools and steps I used throughout the process.
 
-## Reason for Building It
+## Reason for Building
 
 Our family watches a lot of movies, which leads to downloading large volumes of media content. I needed a reliable solution to manage and organize everything efficiently. Additionally, I wanted physical access to the drives storing our photos and videos, rather than relying on third-party cloud services. A big thanks to [TechHut](https://www.youtube.com/@TechHut) for the guidance that made this setup possible.
 
