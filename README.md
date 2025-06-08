@@ -53,8 +53,8 @@ After setup, you’ll have shared storage (1 TB in my case) accessible over your
 - **GitHub:** [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)  
 - **Installation:**  
   - Via CasaOS App Store  
-  - [Manual Installation Guide](https://jellyfin.org/docs/general/installation/)  
-- **Video Guide:** [📺 YouTube - Jellyfin Setup](https://youtu.be/eJvQKLVrmU8?si=pzzFvGuj3HJmn65x)  
+  - [Manual Installation](https://jellyfin.org/docs/general/installation/)  
+- **Video Guide:** [Jellyfin Setup](https://youtu.be/eJvQKLVrmU8?si=pzzFvGuj3HJmn65x)  
 - **Media Folder Structure:** [Organizing Media for Jellyfin](https://jellyfin.org/docs/general/server/media/movies)
 
 ### Outcome
