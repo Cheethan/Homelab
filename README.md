@@ -17,7 +17,7 @@ Our family watches a lot of movies, which leads to downloading large volumes of 
 
 - **Device:** HP Pavilion 15  
 - **Processor:** Intel Core i7-8550U  
-- **Memory:** 8 GB RAM  
+- **Memory:** 8 GB
 - **Storage:** 1 TB HDD
 
 ### Operating System
