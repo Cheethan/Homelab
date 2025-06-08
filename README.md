@@ -35,7 +35,7 @@ I chose [CasaOS](https://casaos.zimaspace.com/) for file management because itâ€
 
 - **GitHub:** [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)  
 - **Website & Download:** [CasaOS Official Site](https://casaos.zimaspace.com/)  
-- **Video Guide:** [ðŸ“º YouTube - CasaOS Setup](https://youtu.be/_qNWpdFqLIU?si=SnM5qwoqMNNDSgvx)
+- **Video Guide:** [CasaOS Setup](https://youtu.be/_qNWpdFqLIU?si=SnM5qwoqMNNDSgvx)
 
 ### Outcome
 
